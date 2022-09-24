@@ -93,7 +93,7 @@
               <div class="flex items-center">
                 <input
                   id="nutri"
-                  name="pacient"
+                  name="nutri"
                   type="radio"
                   class="focus:ring-green-500 h-4 w-4 text-green-600 border-gray-300"
                 />
