@@ -8,9 +8,9 @@
           class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl"
         >
           <span class="block xl:inline"
-            >Organiza tu
-            <span class="text-green-600 xl:inline">alimentación</span> en un
-            solo lugar</span
+            >Agenda, 
+            <span class="text-green-600 xl:inline">pagos</span> y ficha
+            de tu paciente</span
           >
         </h1>
         <p
