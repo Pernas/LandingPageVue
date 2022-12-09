@@ -67,46 +67,7 @@
               />
             </div>
           </div>
-
-          <fieldset>
-            <div>
-              <legend class="text-base font-medium text-gray-900">
-                Usuario
-              </legend>
-              <p class="text-sm text-gray-500"></p>
-            </div>
-            <div class="mt-4 space-y-4">
-              <div class="flex items-center">
-                <input
-                  id="pacient"
-                  name="pacient"
-                  type="radio"
-                  class="focus:ring-green-500 h-4 w-4 text-green-600 border-gray-300"
-                />
-                <label
-                  for="pacient"
-                  class="ml-3 block text-sm font-medium text-gray-700"
-                >
-                  Soy paciente
-                </label>
-              </div>
-              <div class="flex items-center">
-                <input
-                  id="nutri"
-                  name="nutri"
-                  type="radio"
-                  class="focus:ring-green-500 h-4 w-4 text-green-600 border-gray-300"
-                />
-                <label
-                  for="nutri"
-                  class="ml-3 block text-sm font-medium text-gray-700"
-                >
-                  Soy nutricionista
-                </label>
-              </div>
-            </div>
-          </fieldset>
-
+          
           <div class="flex justify-end pt-4">
             <button
               type="submit"

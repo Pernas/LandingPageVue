@@ -16,8 +16,7 @@
         <p
           class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl"
         >
-          Nuestra misión es apoyar a las personas en su búsqueda por una
-          alimentación más saludable y sustentable.
+          Nuestra misión es apoyar a nutricionistas, en convertir el mundo en un lugar más saludable.
         </p>
         <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
           <div class="rounded-md shadow">

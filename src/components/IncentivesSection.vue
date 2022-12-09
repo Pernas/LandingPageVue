@@ -47,23 +47,23 @@ import imgSalad from "../assets/tracking.png";
 
 const incentives = [
   {
-    name: "Seguimiento",
+    name: "Agenda",
     imageSrc: imgTracking,
     description:
-      "¿Recuerdas que comiste hace tres semanas? Te ayudamos a llevar un registro de las porciones de alimentos que consumes. Información accesible por tu nutricionista para una asistencia más eficiente.",
+      "Elige que horas quieres atender y nosotros nos encargamos. Tendrás un calendario dónde tus pacientes podrán agendar sus consultas",
   },
   {
-    name: "Metas",
+    name: "Pagos",
     imageSrc:
       "https://tailwindui.com/img/ecommerce/icons/icon-warranty-simple.svg",
     description:
-      "Fija metas en conjunto a tu nutricionista. Avanza paso a paso y ve como tu progreso se transforma en resultados.",
+      "¡A nadie le gusta andar cobrando! y no tienes por qué hacerlo. Tus pacientes pagan al momento de agendar.",
   },
   {
-    name: "Alimentos",
+    name: "Ficha médica",
     imageSrc: imgSalad,
     description:
-      "Toda la información que necesitas: grupos de alimentos y listas de alimentos con sus porciones. Lleva la pauta a dónde sea con tu celular.",
+      "Cada persona que atiendas tendrá un perfil con información general, y en dónde puedes ir guardando la información consulta a consulta en las fichas médicas. Estas son totalmente personalizables por ti. Nos adaptamos a tu estilo.",
   },
 ];
 </script>
