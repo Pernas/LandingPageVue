@@ -5,7 +5,7 @@
         <div class="max-w-xl mx-auto lg:max-w-none">
           <div class="text-center">
             <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">
-              Nuestras principales metas
+              No encargamos de
             </h2>
           </div>
           <div
